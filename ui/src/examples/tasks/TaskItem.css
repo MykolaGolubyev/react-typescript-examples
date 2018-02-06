@@ -1,0 +1,23 @@
+.task-item {
+    padding: 10px;
+    border: 1px solid #eee;
+    font-size: 12px;
+}
+
+.task-item > .task-title {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.task-item > .task-description {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.task-item > .task-status {
+    font-size: 12px;
+    color: #606498;
+    cursor: pointer;
+}
